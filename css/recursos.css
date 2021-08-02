@@ -2,7 +2,7 @@
 
 header{ 
     height:70px; 
-    background-color: #176FA6;
+    background-color: #5EB916;
     background-image: url(../img/sombra_03.png);
     padding: 0px 0px 0px 0px;
     display: flex; 
@@ -30,7 +30,7 @@ header nav{
 }
 
 #research-interest {
-    border-color: #176FA6; 
+    border-color: #5EB916 
     display: flex; 
     justify-content: center; 
 }
@@ -42,7 +42,7 @@ header nav{
     border-bottom-right-radius: 50px;
     border-bottom-left-radius: 50px;
     border-width: thin;
-    border-color: #176FA6;
+    border-color: #5EB916;
     
     padding:0% 40px 2% 40px;
 }
@@ -80,7 +80,7 @@ section{
 h2 {
     font-size: 70px;
     font-family: montserrat;
-    color: #176FA6;
+    color: #5EB916;
 }
 h3 {
     font-size: 20px;
@@ -94,7 +94,7 @@ p {
 
 body{margin:auto;}
 
-.colorweb{Background-color:#0071bc;}
+.colorweb{Background-color:#5EB916;}
 
 A{color:white; text-decoration:none;}
 
